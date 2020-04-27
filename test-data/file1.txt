@@ -1,0 +1,6 @@
+Hi Shell
+How are you?
+
+This is an input file for testing. :)
+
+Good bye!
